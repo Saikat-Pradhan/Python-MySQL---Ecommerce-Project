@@ -6,7 +6,7 @@ This project analyzes transactional data from an e-commerce platform to uncover 
 customer behavior, and revenue trends. It combines the power of Python and MySQL to clean, query, 
 and visualize real-world sales data efficiently and scalably.
 
-Objectives:-
+Objectives:- 
 - Extract and preprocess sales data from a MySQL database
 - Perform in-depth analysis of products, customers, and seasonal trends
 - Visualize insights with Python libraries (e.g., matplotlib, seaborn)
